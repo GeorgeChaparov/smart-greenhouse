@@ -1,0 +1,12 @@
+1. Dokumentaciq
+1.1. Ventilaciq (Selin)
+1.2. Otoplenie (Presko)
+1.3. Osvetlenie (Gosho)
+1.4. Cqlostna konstrukciq (plan) na oranjeriqta (Dan40)
+1.5. Subirane na dujdovna voda (Selin)
+1.6. Muzika
+1.7. Kachestvo na rasteniq CV
+
+2. Mesh mreja
+3. Koncentrator - za 1 oranjeriq
+4. Centralen server - web prilojenie - za vsichki oranjerii
