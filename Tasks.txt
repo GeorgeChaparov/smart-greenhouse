@@ -6,7 +6,10 @@
 1.5. Subirane na dujdovna voda (Selin)
 1.6. Muzika
 1.7. Kachestvo na rasteniq CV
+1.8. Prouchvane za polivane na domati, chushki i krastavici (Presko)
 
 2. Mesh mreja
 3. Koncentrator - za 1 oranjeriq
 4. Centralen server - web prilojenie - za vsichki oranjerii
+
+5. End to end encryption Node - Server (Dan40)

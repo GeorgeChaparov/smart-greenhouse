@@ -1,0 +1,27 @@
+Потребител:
+-
+-
+-
+-
+
+Оранжерия:
+-
+-
+-
+-
+
+
+
+Server API:
+
+MAC Address - 6B
+Rolling code - 4B
+light - 0 - 200000; Lux
+temp - -20C - +80C (int8)
+Humidity - 0-100%
+Soil Moisture - [0-100, 0-100, 0-100, 0-100]
+Ds - 0-255 
+
+ Pump:
+	MAC Address - 6B
+	Rolling code - 4B
